@@ -165,4 +165,5 @@ Nếu bạn có bất kỳ ý tưởng hoặc đề xuất nào, vui lòng tạo
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=78/xiaozhi-esp32&type=Date" />
    <img alt="Biểu đồ Lịch sử Star" src="https://api.star-history.com/svg?repos=78/xiaozhi-esp32&type=Date" />
  </picture>
-</a>
+</a>#   E S P 3 2 - S 3 - N h a c _ Z i n g M p 3 _ R a d i o V O V  
+ 
