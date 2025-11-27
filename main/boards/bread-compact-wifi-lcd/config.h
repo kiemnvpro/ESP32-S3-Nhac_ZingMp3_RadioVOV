@@ -53,11 +53,11 @@
 
 #ifdef CONFIG_LCD_ST7789_240X320
 #define LCD_TYPE_ST7789_SERIAL
-#define DISPLAY_WIDTH   240 //Xoay 320 MH Ngang
-#define DISPLAY_HEIGHT  320 //Xoay 240 MH Ngang
-#define DISPLAY_MIRROR_X false  //bat true MH Ngang
+#define DISPLAY_WIDTH   320 //Xoay 320 MH Ngang
+#define DISPLAY_HEIGHT  240 //Xoay 240 MH Ngang
+#define DISPLAY_MIRROR_X true  //bat true MH Ngang
 #define DISPLAY_MIRROR_Y false
-#define DISPLAY_SWAP_XY false //bat true MH Ngang
+#define DISPLAY_SWAP_XY true //bat true MH Ngang
 #define DISPLAY_INVERT_COLOR    true
 #define DISPLAY_RGB_ORDER  LCD_RGB_ELEMENT_ORDER_RGB
 #define DISPLAY_OFFSET_X  0
